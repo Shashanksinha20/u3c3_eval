@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  #navbar{
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 255, 203);
+  }
+  #form{
+    margin: 30px auto;
+    text-align: center;
+  }
